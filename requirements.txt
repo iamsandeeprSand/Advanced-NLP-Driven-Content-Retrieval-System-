@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain_google_genai
+langchain
+sentence-transformers
+langchain-community
