@@ -14,8 +14,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 app = FastAPI()
 
 # Configuration
-GOOGLE_API_KEY = "your-google-api-key"  # You should use environment variables for sensitive data
-llm = ChatGoogleGenerativeAI(
+GOOGLE_API_KEY = "your-google-api-key"  # environment variables  
     model="gemini-1.5-pro",
     temperature=0,
     max_tokens=None,
