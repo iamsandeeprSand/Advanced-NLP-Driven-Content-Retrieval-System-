@@ -184,7 +184,7 @@ To test the API:
 
      ```json
      {
-       "question": "Explain Sachin?"
+       "question": "Who is Sachin?"
      }
      ```
 
