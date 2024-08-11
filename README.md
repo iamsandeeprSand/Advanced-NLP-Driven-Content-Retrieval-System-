@@ -38,8 +38,8 @@ This project demonstrates a complete pipeline for web scraping, document storage
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/iamsandeeprSand/WebScraping_RAG_Model-and-RESTful-API.git
-   cd WebScraping_RAG_Model-and-RESTful-API
+   git clone https://github.com/iamsandeeprSand/Advanced-NLP-Driven-Content-Retrieval-System-Language-Model.git
+   cd Advanced-NLP-Driven-Content-Retrieval-System-Language-Model
    ```
 
 2. **Create a `.env` File**
@@ -94,7 +94,7 @@ This project demonstrates a complete pipeline for web scraping, document storage
 
   ```json
   {
-    "question": "Explain Sachin?"
+    "question": "Who is Sachin?"
   }
   ```
 
